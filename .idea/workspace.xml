@@ -2,12 +2,10 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/read_json.py" line="9" />
-    <bookmark url="file://$PROJECT_DIR$/笔记.md" line="848" />
+    <bookmark url="file://$PROJECT_DIR$/笔记.md" line="862" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc54ac9d-0766-4dac-87fa-0a763b45c9ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/笔记.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="532">
-                <caret line="1034" column="19" lean-forward="true" selection-start-line="1034" selection-start-column="19" selection-end-line="1034" selection-end-column="19" />
+              <first_editor relative-caret-position="405">
+                <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -100,8 +98,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -661,8 +659,8 @@
     <entry file="file://$PROJECT_DIR$/笔记.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="532">
-            <caret line="1034" column="19" lean-forward="true" selection-start-line="1034" selection-start-column="19" selection-end-line="1034" selection-end-column="19" />
+          <first_editor relative-caret-position="405">
+            <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
